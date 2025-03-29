@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/adarshsingh1683" target="blank"><img src="https://img.shields.io/twitter/follow/adarshsingh1683?logo=twitter&style=for-the-badge" alt="adarshsingh1683" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://singhadarsh1683.netlify.app/](https://singhadarsh1683.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://singhadarsh1683.netlify.app/](https://portfolio-website-ten-amber-40.vercel.app/)] 
 
 - 💬 Ask me about **C,C++,Javascript,React,Typescript**
 
 - 📫 How to reach me **adarshsingh458868@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1k2MfK7QpSEyEkX2YlgSP6FgVTiv2nci_/view?usp=sharing](https://drive.google.com/file/d/1k2MfK7QpSEyEkX2YlgSP6FgVTiv2nci_/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1k2MfK7QpSEyEkX2YlgSP6FgVTiv2nci_/view?usp=sharing](https://drive.google.com/file/d/1ovqDgSJ9bfM8Fug_UDFxC2DpPNZB9noj/view)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
