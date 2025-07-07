@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/adarshsingh1683" target="blank"><img src="https://img.shields.io/twitter/follow/adarshsingh1683?logo=twitter&style=for-the-badge" alt="adarshsingh1683" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [[https://singhadarsh1683.netlify.app/]
+- 👨‍💻 All of my projects are available at [https://portfolio-nine-lyart-24.vercel.app/]
 
 - 💬 Ask me about **C,C++,Javascript,React,Typescript**
 
